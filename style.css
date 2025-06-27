@@ -1,0 +1,30 @@
+section {
+    height: 100vh;
+}
+body {
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(to right, #df271a, #52290e);
+}
+h1 {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+p {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {font-size: 55px;
+}
+p {font-size: 40px;
+}
+.hero-section {
+    display: flex;
+    gap: 200px; /* espace entre les cartes */
+    justify-content: center;
+    margin-top: 50px;
+}
+#pond {
+    display: flex
+    justify-content: flex-start
+}
