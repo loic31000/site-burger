@@ -29,8 +29,8 @@ p {font-size: 40px;
 }
 .section-center {
     display: flex;
-    justify-content: center; /* Centre horizontalement */
-    align-items: center;     /* Centre verticalement */
+    justify-content: center; align-items: center;     
     background: #b35b09;
 }
+
 
