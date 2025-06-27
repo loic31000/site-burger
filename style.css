@@ -23,12 +23,14 @@ p {font-size: 40px;
 }
 .hero-section {
     display: flex;
-    gap: 200px; /* espace entre les cartes */
+    gap: 200px; 
     justify-content: center;
     margin-top: 50px;
 }
-#pond {
+.section-center {
     display: flex;
-    justify-content: flex-start
-    align-items:
+    justify-content: center; /* Centre horizontalement */
+    align-items: center;     /* Centre verticalement */
+    background: #b35b09;
 }
+
