@@ -51,18 +51,19 @@ h4 {font-size: 60px;
     background: #e2be8f;
     display: flex;
     justify-content: space-between;
-    color: rgb(39, 34, 34);
+    
 }
-h5 {font-size: 120px;
+h5 {font-size: 150px;
 }
-p {font-size: 55px;
+p {font-size: 60px;
 }
 h5 {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }
 h5 {
-    margin: 90px;
+    display: flex;
+    justify-content: center; align-content: center;
 }
 p { 
     margin: 90px;
@@ -71,9 +72,18 @@ p {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }
-img {
-width : 20vw;
-height : 20vh;
-max-width : 200px;
-max-height : 150px;
+#Img_2 {
+width : 30vw;
+height : 30vh;
+max-width : 197px;
+max-height : 180px;
+}
+.about-section p {
+    color: #130e0ec7;
+}
+.about-section h5 {
+    color: #130e0ec7;
+}
+#Img_1{
+     height: 1000px;
 }
