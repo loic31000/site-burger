@@ -13,13 +13,13 @@ h1 {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }
-p {font-family: "Permanent Marker", cursive;
+h2 {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }
 h1 {font-size: 100px;
 }
-p {font-size: 40px;
+h2 {font-size: 40px;
 }
 .hero-section {
     display: flex;
@@ -30,7 +30,35 @@ p {font-size: 40px;
 .section-center {
     display: flex;
     justify-content: center; align-items: center;     
-    background: #b35b09;
+    background: #e2730a;
 }
-
-
+h3 {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h4 {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h3 {font-size: 30px;
+}
+h4 {font-size: 60px;
+}
+.about-section {
+    background: #e2be8f;
+    display: flex;
+    justify-content: space-between;
+    color: rgb(39, 34, 34);
+}
+h5 {font-size: 120px;
+}
+p {font-size: 55px;
+}
+h5 {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+p {font-family: "Permanent Marker", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
