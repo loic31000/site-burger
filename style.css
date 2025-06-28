@@ -1,5 +1,5 @@
 section {
-    height: 100vh;
+    height: 120vh;
 }
 div {
     color: white;
@@ -30,8 +30,11 @@ h2 {font-size: 40px;
 .section-center {
     display: flex;
     justify-content: center; align-items: center;     
-    background: #e2730a;
+    background: #d36217;
 }
+h3 { display: flex;
+    justify-content: space-around;
+} 
 h3 {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
@@ -58,7 +61,19 @@ h5 {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
 }
+h5 {
+    margin: 90px;
+}
+p { 
+    margin: 90px;
+}
 p {font-family: "Permanent Marker", cursive;
   font-weight: 400;
   font-style: normal;
+}
+img {
+width : 20vw;
+height : 20vh;
+max-width : 200px;
+max-height : 150px;
 }
