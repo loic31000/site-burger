@@ -87,3 +87,9 @@ max-height : 180px;
 #Img_1{
      height: 1000px;
 }
+#Img_2{
+  border-radius: 50px;
+}
+iframe {
+    border-radius: 50px;
+}
