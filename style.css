@@ -15,8 +15,10 @@ h2 {font-family: "Slackey", sans-serif;
   font-style: normal;
 }
 h1 {font-size: 120px;
+    margin: 20px;
 }
 h2 {font-size: 40px;
+    margin: 20px;
 }
 .hero-section {
     display: flex;
@@ -84,12 +86,26 @@ max-height : 180px;
 .about-section h5 {
     color: #130e0ec7;
 }
-#Img_1{
-     height: 1000px;
+#Img_0 {
+    width : 30vw;
+    height : 30vh;
+    max-width : 197px;
+    max-height : 180px;
+    display: flex;
+    justify-content: center; align-items: center
 }
-#Img_2{
+#Img_1 {
+     height: 1000px;
+     margin: 20px;
+}
+#Img_2 {
   border-radius: 50px;
+  margin: 20px;
 }
 iframe {
     border-radius: 50px;
+    margin: 20px;
+}
+#Img_0 {
+    margin: 05px;
 }
